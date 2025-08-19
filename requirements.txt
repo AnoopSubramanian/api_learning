@@ -1,0 +1,5 @@
+fastapi
+uvicorn[standard]
+httpx
+strawberry-graphql
+websockets
